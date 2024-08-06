@@ -1,0 +1,6 @@
+[book]
+authors = ["Binlogo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CS-106B"
